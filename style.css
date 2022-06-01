@@ -221,7 +221,7 @@ header .navbar ul li a:hover{
     color:var(--yellow);
 }
 
-.about .row .counter .box h3{
+.about .row .counter .box h2{
     font-size: 2rem;
     color:#fff;
 }
